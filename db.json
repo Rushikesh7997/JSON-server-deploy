@@ -1,21 +1,20 @@
 {
-    "books": [
+    "posts": [
         {
             "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
+            "username": "Harry Potter and the Philosopher's Stone",
+            "caption": "J. K. Rowling",
+            "id": "1"
         }
     ],
     "users": [
         {
             "id": "1",
-            "name": "masai",
-            "email": "masai@gmail.com"
+            "username":"masaisc",
+            "avatar":"https://i.pravatar.cc/150?u=fake@pravatar.com",
+            "name": "masai School",
+            "email": "masai@gmail.com",
+            "password" : "masai@123"
         }
     ]
 }
