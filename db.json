@@ -1,20 +1,12 @@
 {
-    "posts": [
-        {
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "username": "Harry Potter and the Philosopher's Stone",
-            "caption": "J. K. Rowling",
-            "id": "1"
-        }
-    ],
     "users": [
         {
             "id": "1",
-            "username":"masaisc",
-            "avatar":"https://i.pravatar.cc/150?u=fake@pravatar.com",
-            "name": "masai School",
-            "email": "masai@gmail.com",
-            "password" : "masai@123"
+            "name":"Rahul",
+            "age": 31,
+            "gender": "Male",
+            "country" : "India",
+            "profession" : "Student"
         }
     ]
 }
